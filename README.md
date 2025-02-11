@@ -4,7 +4,7 @@ This repository contains **deep learning models** for **food classification**, c
 
 🔗 **Dataset:** [FoodVision Dataset Link](https://drive.google.com/drive/folders/1fLLdEo1aOH7xnEpqZ6R4vdDmDn6Bxi-H)
 
-🔗 **Live Training Logs & Results:** Tracked with [Weights & Biases (WandB)](https://wandb.ai/mhamza007/Food%20Vision%20101?nw=nwuserhamzaazharmuhammad)  
+🔗 **Live Training Logs & Results:** Tracked with [Weights & Biases (WandB)](https://api.wandb.ai/links/mhamza007/wkaqlxoy)  
 
 ---
 
