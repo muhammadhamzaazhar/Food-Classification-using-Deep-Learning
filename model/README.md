@@ -1,7 +1,7 @@
 # Fine-Tuned EfficientNetB4 for Food Classification 🍕🥗
 The model has been trained using the Food101 dataset and supports classification across 101 food categories.
 
-🔗 Model Link: https://drive.google.com/drive/folders/1G0RBnPCBId7fmAv6YOmkShiKetAG5p2h
+🔗 Model Link: [Google Drive Link](https://drive.google.com/drive/folders/1G0RBnPCBId7fmAv6YOmkShiKetAG5p2h)
 
 ## 📌 Model Details
 - **Base Model:** EfficientNetB4 (pretrained on ImageNet)
