@@ -1,5 +1,7 @@
 # 🍕🥗 Food Classification using Deep Learning  
 
+![image](https://github.com/user-attachments/assets/1f9929cb-cdc7-4eea-8c4e-46598b236b6b)
+
 This repository contains **deep learning models** for **food classification**, covering **binary, 10-class, and 101-class classification tasks**. The models are trained using **custom CNN architectures** and **transfer learning** with **EfficientNet** and **ResNet**.  
 
 🔗 **Dataset:** [FoodVision Dataset Link](https://drive.google.com/drive/folders/1fLLdEo1aOH7xnEpqZ6R4vdDmDn6Bxi-H)
