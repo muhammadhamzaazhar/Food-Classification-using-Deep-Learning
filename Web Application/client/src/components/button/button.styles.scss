@@ -1,0 +1,47 @@
+.input-button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 15px 0;
+}
+
+.input-file {
+  flex: 1;
+  padding: 12px;
+  border: 2px solid var(--input-border);
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: var(--input-bg);
+  color: white;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.custom-button {
+  white-space: nowrap; /* Prevents the button text from wrapping */
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+  background: linear-gradient(
+    135deg,
+    var(--button-gradient-start),
+    var(--button-gradient-end)
+  );
+  color: white;
+  box-shadow: 0 4px 10px rgba(0, 123, 255, 0.3);
+}
+
+.custom-button:hover {
+  background: linear-gradient(
+    135deg,
+    var(--button-hover-start),
+    var(--button-hover-end)
+  );
+  box-shadow: 0 6px 15px rgba(0, 123, 255, 0.5);
+  transform: translateY(-2px);
+}

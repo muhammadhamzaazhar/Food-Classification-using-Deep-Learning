@@ -1,0 +1,26 @@
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px 0;
+}
+.input-file {
+  padding: 12px;
+  border: 2px solid var(--input-border);
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: var(--input-bg);
+  color: white;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.input-file:hover {
+  border-color: var(--button-gradient-start);
+  background-color: var(--table-header-bg);
+}
+
+.input-file:focus {
+  border-color: #00b4d8;
+  background-color: #2b2b2b;
+}
