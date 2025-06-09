@@ -4,7 +4,7 @@
 
 This repository contains **deep learning models** for **food classification**, covering **binary, 10-class, and 101-class classification tasks**. The models are trained using **custom CNN architectures** and **transfer learning** with **EfficientNet** and **ResNet**.  
 
-🔗 **Dataset:** [FoodVision Dataset Link](https://drive.google.com/drive/folders/1fLLdEo1aOH7xnEpqZ6R4vdDmDn6Bxi-H)
+🔗 **Dataset:** [FoodVision Dataset Link](https://huggingface.co/datasets/mhamza-007/multi-class-food-dataset/tree/main)
 
 🔗 **Live Training Logs & Results:** Tracked with [Weights & Biases (WandB)](https://api.wandb.ai/links/mhamza007/wkaqlxoy)  
 
